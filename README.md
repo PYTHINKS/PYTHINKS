@@ -1,10 +1,6 @@
 ## Hey! Nice to see you.🙌
-
-
-[![Gmail Badge](https://img.shields.io/badge/-thanhphuong.pythinks@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:thanhphuong.pythinks@gmail.com)](mailto:thanhphuong.pythinks@gmail.com)
-
-# About Me 📕:
-* Welcome to my page !
+ Welcome to my page !
+## About Me 📕:
 * I'm CE.Phuong, a BIM developer from Vietnam , currently living in Ho Chi Minh City
 
 ## 🌐Socials
