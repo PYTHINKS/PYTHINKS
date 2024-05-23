@@ -1,9 +1,9 @@
 ## Hey! Nice to see you.🙌
 Welcome to my page !
-I'm CE.Phuong, a BIM developer from Vietnam https://vi.pngtree.com/freepng/flag-of-vietnam-icon-world_8132735.html, currently living in Ho Chi Minh City
+I'm CE.Phuong, a BIM developer from Vietnam , currently living in Ho Chi Minh City
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.facebook.com/vuontoituonglai28/)
-[![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](http://fakesite.invalid/)
+[![Gmail Badge](https://img.shields.io/badge/-thanhphuong.pythinks@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:thanhphuong.pythinks@gmail.com)](mailto:thanhphuong.pythinks@gmail.com)
+
 
 <!--
 **PYTHINKS/PYTHINKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
