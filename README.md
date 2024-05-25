@@ -1,7 +1,10 @@
 ## Hey! Nice to see you.🙌
  Welcome to my page !
+ <img align="right" width="64" src="https://avatars.githubusercontent.com/u/157952071?s=400&u=26422c5a68de626c8152fa86b552817b50746097&v=4" />
 ## About Me 📕:
-* I'm CE.Phuong, a BIM developer from Vietnam , currently living in Ho Chi Minh City
+- Hello, I am Nguyen Thanh Phuong, I come from Vietnam, currently living in Ho Chi Minh City
+- I am a civil engineer with a passion for programming
+- My work revolves around developing support software for engineers and BIM projects
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vuontoituonglai28) 
