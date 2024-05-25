@@ -21,7 +21,7 @@
      <img align="center" width="300" src="https://static.vecteezy.com/system/resources/previews/003/596/441/original/design-studio-concept-in-modern-flat-design-man-designer-creates-content-for-site-drawing-graphic-elements-works-at-computer-illustrator-working-on-creative-studio-project-illustration-vector.jpg" />
     </p>
 
-## How To Reach Me 💡:
+## Connect With Me 💡:
 <p align="left">
   <a href="https://www.linkedin.com/in/phuong-nguyen-748b25297/" target="_blank">
     <img Width="45" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
