@@ -7,8 +7,8 @@
 <body>
     <h2 align="center">WELCOME TO MY PAGE 🙌</h2>
     <p align="center"> 
-     <img align="center" width="80" src="https://avatars.githubusercontent.com/u/157952071?s=400&u=26422c5a68de626c8152fa86b552817b50746097&v=4" />
-      <img align="center" width="80" src="https://avatars.githubusercontent.com/u/157952071?s=400&u=26422c5a68de626c8152fa86b552817b50746097&v=4" />
+     <img align="center" width="120" src="https://github.com/PYTHINKS/00.Icon/blob/master/Logo%20ThinkTool.png" />
+      <img align="center" width="120" src="https://avatars.githubusercontent.com/u/157952071?s=400&u=26422c5a68de626c8152fa86b552817b50746097&v=4" />
     </p>
 </body>
 </html>
@@ -18,7 +18,7 @@
 - I am a civil engineer with a passion for programming.
 - My work revolves around developing support software for engineers and BIM projects.
    <p align="center"> 
-     <img align="center" width="80" src="https://cdni.iconscout.com/illustration/premium/thumb/man-thinking-about-startup-idea-3678726-3136003.png" />
+     <img align="center" width="300" src="https://static.vecteezy.com/system/resources/previews/003/596/441/original/design-studio-concept-in-modern-flat-design-man-designer-creates-content-for-site-drawing-graphic-elements-works-at-computer-illustrator-working-on-creative-studio-project-illustration-vector.jpg" />
     </p>
 
 ## How To Reach Me 💡:
