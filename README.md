@@ -23,20 +23,17 @@
 
 ## How To Reach Me 💡:
 <p align="left">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/phuong-nguyen-748b25297/" target="_blank">
+    <img Width="45" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/vuontoituonglai28" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img Width="45" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://www.youtube.com/@pythinks1998" alt="Youtube channel" target="_blank" >
+    <img Width="45" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="mailto:thanhphuong.pythinks@gmail.com" alt="Email">
+    <img Width="45" src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
 
