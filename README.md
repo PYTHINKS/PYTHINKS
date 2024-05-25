@@ -1,9 +1,21 @@
-## Hey! Nice to see you.🙌
- Welcome to my page !
- <img align="right" width="64" src="https://avatars.githubusercontent.com/u/157952071?s=400&u=26422c5a68de626c8152fa86b552817b50746097&v=4" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h2 align="center">WELCOME TO MY PAGE 🙌</h2>
+    <p align="center"> 
+     <img align="center" width="80" src="https://avatars.githubusercontent.com/u/157952071?s=400&u=26422c5a68de626c8152fa86b552817b50746097&v=4" />
+      <img align="center" width="80" src="https://avatars.githubusercontent.com/u/157952071?s=400&u=26422c5a68de626c8152fa86b552817b50746097&v=4" />
+    </p>
+</body>
+</html>
+
 ## About Me 📕:
-- Hello, I am Nguyen Thanh Phuong, I come from Vietnam, currently living in Ho Chi Minh City
-- I am a civil engineer with a passion for programming
+- Hello, I am Nguyen Thanh Phuong, I come from Vietnam, currently living in Ho Chi Minh City.
+- I am a civil engineer with a passion for programming.
 - My work revolves around developing support software for engineers and BIM projects
 
 ## 🌐Socials
