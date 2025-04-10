@@ -8,6 +8,8 @@
     <h2 align="center">WELCOME TO MY PAGE 🙌</h2>
     <p align="center"> 
      <img align="center" width="120" src="https://github.com/PYTHINKS/00.Icon/blob/master/Logo%20ThinkTool.png" />
+         <img align="center" width="120" src="https://github.com/PYTHINKS/00.Icon/blob/master/VietQS.png" />
+         <img align="center" width="120" src="https://github.com/PYTHINKS/00.Icon/blob/master/ConCost.png" />
       <img align="center" width="120" src="https://avatars.githubusercontent.com/u/157952071?s=400&u=26422c5a68de626c8152fa86b552817b50746097&v=4" />
     </p>
 </body>
